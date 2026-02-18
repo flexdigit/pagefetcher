@@ -1,0 +1,7 @@
+# Sample URLs for testing PageFetcher
+# Add one URL per line - the script will search for "Impressum" links on each page
+
+https://www.spiegel.de
+https://www.zeit.de  
+https://www.heise.de
+https://www.focus.de
